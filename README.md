@@ -43,3 +43,5 @@ status id -\> id buku (primary key) status -\> status buku (sudah
 disewakan atau belum)
 
 tmp name -\> teks untuk menyimpan variabel nama
+
+Aplikasi ini menggunakan versi java-17 dan javafx sdk-19
